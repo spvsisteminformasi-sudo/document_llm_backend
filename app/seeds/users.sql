@@ -1,0 +1,4 @@
+INSERT INTO "public"."users" ( "name", "email", "password", "created_at", "updated_at", "username") VALUES 
+('Administrator', 'admin@gmail.com', 'scrypt:32768:8:1$zUfdFoOljmQrD8gg$30a7eb82446325d10ed1c17352423215af86a3232e64913ce4e3728fb58b380c720afe7a90829e8ab03df2848ef2ff64d8482d557438a4c304355e1c4b5deac2', '2025-04-11 15:29:44.782537', '2025-04-11 15:29:44.782537', 'admin'),
+('Masfu Hisyam', 'masfu@gmail.com', 'scrypt:32768:8:1$GaprmHX7jRHJMZ7r$17f78314a7866261015151389d96997c45a2313b7f97c539383ca7385f037f30e7bd6ca24100075ff99cd47c234d335ef9520a9d9a4ecbd0dda271097e04c4a8', '2025-04-11 16:11:37.828514', '2025-04-11 16:11:37.828514', 'masfu'),
+('Hisyam', 'hisyam@gmail.com', 'scrypt:32768:8:1$XhdyNce3J9q1wFre$1b65719bc41578d40d6c7f8f1ae6926b35809213a727847b5f41f40c3deda83b39669a9bdf76ebbe57b72e2a97c7e82f38fb1feee81e92d7b73fe78fc28eace0', '2025-04-11 17:33:03.30548', '2025-04-11 17:33:03.30548', 'hisyam');
